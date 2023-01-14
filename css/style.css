@@ -1,0 +1,22 @@
+.logo {
+    width: 200px;
+}
+
+.icon {
+    width: 30px;
+}
+
+a {
+    color: #936F54;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: #936F54;
+    border:1px solid #936F54;
+}
+
+
+.titulo {
+    margin-bottom: 30px;
+}
